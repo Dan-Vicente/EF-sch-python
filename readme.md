@@ -9,3 +9,10 @@ Este projeto explora a conversão da **Equação de Schrödinger Clássica** par
 - **Equação de Schrödinger Clássica**: A versão clássica da equação de Schrödinger é definida como:
   ```plaintext
   iℏ ∂ψ/∂t = -ℏ²/(2m) ∂²ψ/∂x²
+
+## Conversão para a Forma Fracionária: A equação clássica é então adaptada para incluir uma derivada fracionária de ordem α com relação ao tempo,
+- resultando em:
+```plaintext
+iℏ ∂^αψ/∂t^α = -ℏ²/(2m) ∂²ψ/∂x²
+
+
